@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "name": "Duong Van Tu",
+        "tel": "012931203123",
+        "permission": 1
+    },
+    {
+        "id": 2,
+        "name": "Nguyen Hoang Nghia",
+        "tel": "123120329132",
+        "permission": 2
+    },
+    {
+        "id": 3,
+        "name": "Truong Duc Trong",
+        "tel": "033221312312",
+        "permission": 3
+    },
+    {
+        "id": 4,
+        "name": "Nguyen Truong Thinh",
+        "tel": "2123123123213",
+        "permission": 3
+    },
+    {
+        "id": 5,
+        "name": "Tran Thi Huyen Trang",
+        "tel": "023424234234",
+        "permission": 1
+    }
+]
